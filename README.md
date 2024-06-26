@@ -1,12 +1,12 @@
-oi meu nome é *kauan rodrigues ramalho*
+Oi meu nome é *kauan rodrigues ramalho*
 
-estou estudando no alura
+Estou estudando no alura
 
-estou me desenvolvendo na linguagem java script
+Estou me desenvolvendo na linguagem java script
 
-uso esse espaço para me organizar
+Uso esse espaço para me organizar
 
 
-meu contato de email:
+Meu contato de email:
 
 kauan.rodrigues.ramalho@escola.pr.gov.br
